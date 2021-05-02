@@ -1,11 +1,12 @@
 
 body{
   background-color:rgb(236, 217, 198);
-  margin: 5%;
+  margin: 2%;
 }
 h1{
   color:rgb(96, 31, 31);
   font-size: 50px;
+  text-align: center;
 }
 
 p{
@@ -13,7 +14,9 @@ font-size: 30px;
 color:rgb(96, 31, 31);
 
 }
-
+center{
+text-align: center;
+}
 ol li{
 font-size: 30px;
 
@@ -22,8 +25,11 @@ li{
   font-size: 30px;
 }
 img{
-  margin-left :35%;
+  padding: 5;
   border: 1px solid;
+}
+.foto{
+  text-align: center;
 }
 table {
    width: 100%;
